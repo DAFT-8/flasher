@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=flasher
+GenericName=Image Writer
+GenericName[tr]=Disk Kalıbı Yazıcı
+Comment=Writes ISO files to USB disk
+Comment[tr]=ISO Dosyalarını USB Diske yazar
+Exec=flasher %f
+Icon=flasher
+Terminal=false
+Type=Application
+Categories=System;
+MimeType=application/x-cd-image;
+StartupNotify=true
+Keywords=image;iso;writer;disk;usb;flash

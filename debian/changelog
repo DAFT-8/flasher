@@ -1,0 +1,7 @@
+flasher (0.0.2) unstable; urgency=medium
+
+  * Fix overloading
+  * Add LICENSE
+  * Update README
+
+ -- Yurin Doctrine <myemail@mail.com>  Wed, 27 Mar 2022 14:51:12 +0300

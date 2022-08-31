@@ -1,0 +1,21 @@
+Source: flasher
+Section: utils
+Priority: optional
+Maintainer: Yurin Doctrine <dummy@example.org>
+Build-Depends: debhelper (>= 10), dh-python, python3-all, python3-setuptools, gettext
+Standards-Version: 4.3.0
+Homepage: https://www.github.com/DAFT-8/flasher
+
+Package: flasher
+Architecture: amd64
+Depends: ${misc:Depends},
+         ${python3:Depends},
+         parted,
+         python3 (>=3.5),
+         python3-gi,
+         python3-requests,
+         python3-pyudev,
+         rsync,
+         gir1.2-gtk-3.0
+Description: Image Writer
+ flasher is a simple Disk Image USB burner tool.

@@ -1,0 +1,2 @@
+#!/usr/bin/sh
+exec $(/usr/bin/python3 /usr/share/daft-8/flasher/src/main.py "$@") >/dev/null 2>&1

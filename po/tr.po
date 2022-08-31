@@ -1,0 +1,155 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-5 11:46+0300\n"
+"PO-Revision-Date: 2022-12-5 11:47+0300\n"
+"Last-Translator: Yurin Doctrine <github.com/YurinDoctrine>\n"
+"Language-Team: Turkish <github.com/DAFT-8>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Gtranslator 3.38.0\n"
+
+#: ui/MainWindow.glade:7
+msgid "About"
+msgstr "Hakkında"
+
+#: ui/MainWindow.glade:14
+msgid "Write ISO Images to USB devices easily."
+msgstr "ISO kalıplarını USB disklere kolayca yazın."
+
+#: ui/MainWindow.glade:162
+msgid "Are you sure?"
+msgstr "Emin misiniz?"
+
+#: ui/MainWindow.glade:232
+msgid "This file:"
+msgstr "Bu dosya:"
+
+#: ui/MainWindow.glade:259
+msgid "Will be written on this disk:"
+msgstr "Bu diske yazılacak:"
+
+#: ui/MainWindow.glade:299
+msgid ""
+"<b>WARNING:</b>\n"
+"All the personal data on the device will be deleted.\n"
+"Do you want to continue?"
+msgstr ""
+"<b>UYARI:</b>\n"
+"Cihazdaki tüm verileriniz silinecek.\n"
+"Devam etmek istiyor musunuz?"
+
+#: ui/MainWindow.glade:349
+msgid "DD Mode [Recommended]"
+msgstr "DD Modu [Önerilen]"
+
+#: ui/MainWindow.glade:353
+msgid "ISO Mode (for Gnu/Linux)"
+msgstr "ISO Modu (Gnu/Linux için)"
+
+#: ui/MainWindow.glade:357
+msgid "ISO Mode (for Windows)"
+msgstr "ISO Modu (Windows için)"
+
+#: ui/MainWindow.glade:363 ui/MainWindow.glade:408 ui/MainWindow.glade:1040
+msgid "Pardus Image Writer"
+msgstr "Pardus Disk Kalıbı Yazıcı"
+
+#: ui/MainWindow.glade:463
+msgid "Select ISO or IMG File"
+msgstr "ISO veya IMG Dosyası Seçiniz"
+
+#: ui/MainWindow.glade:629
+msgid "grub not found"
+msgstr "grub bulunamadı"
+
+#: ui/MainWindow.glade:644 ui/MainWindow.glade:867
+msgid "Cancel"
+msgstr "İptal Et"
+
+#: ui/MainWindow.glade:657
+msgid "Install"
+msgstr "Yükle"
+
+#: ui/MainWindow.glade:741
+msgid "Message "
+msgstr "Mesaj"
+
+#: ui/MainWindow.glade:787
+msgid "Check ISO online (Pardus only)"
+msgstr "ISO'yu çevrimiçi doğrula (Pardus için)"
+
+#: ui/MainWindow.glade:847
+msgid "Start"
+msgstr "Başlat"
+
+#: ui/MainWindow.glade:961
+msgid "Writing process is finished."
+msgstr "Yazma işlemi bitti."
+
+#: ui/MainWindow.glade:987
+msgid "You can eject the USB disk."
+msgstr "USB Belleği çıkarabilirsiniz."
+
+#: ui/MainWindow.glade:997
+msgid "Exit"
+msgstr "Çıkış"
+
+#: ui/MainWindow.glade:1015
+msgid "Write a new file."
+msgstr "Yeni dosya yaz."
+
+#~ msgid "page 1"
+#~ msgstr "sayfa 1"
+
+#~ msgid "Integrity checking failed."
+#~ msgstr "Veri bütünlüğü kontrolü başarısız."
+
+#~ msgid "This is not a Pardus ISO, or it is corrupted."
+#~ msgstr "Bu bir Pardus Kalıbı değil veya dosya bozulmuş."
+
+#~ msgid "Could not connect to pardus.org.tr."
+#~ msgstr "pardus.org.tr adresine bağlanılamadı."
+
+#~ msgid "Error!"
+#~ msgstr "Hata!"
+
+#~ msgid "An error occured while writing the file to the disk."
+#~ msgstr "Dosya diske yazılırken bir hata oluştu."
+
+#~ msgid "Please make sure the USB device is connected properly and try again."
+#~ msgstr ""
+#~ "Lütfen USB cihazın düzgün takılı olduğundan emin olun ve tekrar deneyin."
+
+#~ msgid "TÜBİTAK ULAKBİM | ©2020"
+#~ msgstr "TÜBİTAK ULAKBİM | ©2020"
+
+#~ msgid "pardus.org.tr"
+#~ msgstr "pardus.org.tr"
+
+#~ msgid "Emin Fedar"
+#~ msgstr "Emin Fedar"
+
+#~ msgid "ISO Mode"
+#~ msgstr "ISO Modu"
+
+#~ msgid "Target {} does not exists"
+#~ msgstr "{} hedefi mevcut değil"
+
+#~ msgid "Please install {}"
+#~ msgstr "Lütfen {} yükleyin"
+
+#~ msgid "Installation done."
+#~ msgstr "Yükleme tamamlandı."
+
+#~ msgid "Installation failed."
+#~ msgstr "Yükleme başarısız."

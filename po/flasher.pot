@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-5 14:46+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ui/MainWindow.glade:7
+msgid "About"
+msgstr ""
+
+#: ui/MainWindow.glade:14
+msgid "Write ISO Images to USB devices easily."
+msgstr ""
+
+#: ui/MainWindow.glade:55
+msgid "Checking..."
+msgstr ""
+
+#: ui/MainWindow.glade:162
+msgid "Are you sure?"
+msgstr ""
+
+#: ui/MainWindow.glade:232
+msgid "This file:"
+msgstr ""
+
+#: ui/MainWindow.glade:259
+msgid "Will be written on this disk:"
+msgstr ""
+
+#: ui/MainWindow.glade:299
+msgid ""
+"<b>WARNING:</b>\n"
+"All the personal data on the device will be deleted.\n"
+"Do you want to continue?"
+msgstr ""
+
+#: ui/MainWindow.glade:349
+msgid "DD Mode [Recommended]"
+msgstr ""
+
+#: ui/MainWindow.glade:353
+msgid "ISO Mode (for Gnu/Linux)"
+msgstr ""
+
+#: ui/MainWindow.glade:357
+msgid "ISO Mode (for Windows)"
+msgstr ""
+
+#: ui/MainWindow.glade:363 ui/MainWindow.glade:408 ui/MainWindow.glade:1040
+msgid "Pardus Image Writer"
+msgstr ""
+
+#: ui/MainWindow.glade:463
+msgid "Select ISO or IMG File"
+msgstr ""
+
+#: ui/MainWindow.glade:629
+msgid "grub not found"
+msgstr ""
+
+#: ui/MainWindow.glade:644 ui/MainWindow.glade:867
+msgid "Cancel"
+msgstr ""
+
+#: ui/MainWindow.glade:657
+msgid "Install"
+msgstr ""
+
+#: ui/MainWindow.glade:741
+msgid "Message "
+msgstr ""
+
+#: ui/MainWindow.glade:847
+msgid "Start"
+msgstr ""
+
+#: ui/MainWindow.glade:961
+msgid "Writing process is finished."
+msgstr ""
+
+#: ui/MainWindow.glade:987
+msgid "You can eject the USB disk."
+msgstr ""
+
+#: ui/MainWindow.glade:997
+msgid "Exit"
+msgstr ""
+
+#: ui/MainWindow.glade:1015
+msgid "Write a new file."
+msgstr ""
