@@ -61,8 +61,8 @@ msgid "ISO Mode (for Windows)"
 msgstr "ISO Modu (Windows için)"
 
 #: ui/MainWindow.glade:363 ui/MainWindow.glade:408 ui/MainWindow.glade:1040
-msgid "Pardus Image Writer"
-msgstr "Pardus Disk Kalıbı Yazıcı"
+msgid "flasher"
+msgstr "flasher"
 
 #: ui/MainWindow.glade:463
 msgid "Select ISO or IMG File"
@@ -83,10 +83,6 @@ msgstr "Yükle"
 #: ui/MainWindow.glade:741
 msgid "Message "
 msgstr "Mesaj"
-
-#: ui/MainWindow.glade:787
-msgid "Check ISO online (Pardus only)"
-msgstr "ISO'yu çevrimiçi doğrula (Pardus için)"
 
 #: ui/MainWindow.glade:847
 msgid "Start"
@@ -111,18 +107,6 @@ msgstr "Yeni dosya yaz."
 #~ msgid "page 1"
 #~ msgstr "sayfa 1"
 
-#~ msgid "Integrity checking failed."
-#~ msgstr "Veri bütünlüğü kontrolü başarısız."
-
-#~ msgid "This is not a Pardus ISO, or it is corrupted."
-#~ msgstr "Bu bir Pardus Kalıbı değil veya dosya bozulmuş."
-
-#~ msgid "Could not connect to pardus.org.tr."
-#~ msgstr "pardus.org.tr adresine bağlanılamadı."
-
-#~ msgid "Error!"
-#~ msgstr "Hata!"
-
 #~ msgid "An error occured while writing the file to the disk."
 #~ msgstr "Dosya diske yazılırken bir hata oluştu."
 
@@ -130,14 +114,14 @@ msgstr "Yeni dosya yaz."
 #~ msgstr ""
 #~ "Lütfen USB cihazın düzgün takılı olduğundan emin olun ve tekrar deneyin."
 
-#~ msgid "TÜBİTAK ULAKBİM | ©2020"
-#~ msgstr "TÜBİTAK ULAKBİM | ©2020"
+#~ msgid "DAFT-8 | ©2022"
+#~ msgstr "DAFT-8 | ©2022"
 
-#~ msgid "pardus.org.tr"
-#~ msgstr "pardus.org.tr"
+#~ msgid "https://www.github.com/DAFT-8/"
+#~ msgstr "https://www.github.com/DAFT-8/"
 
-#~ msgid "Emin Fedar"
-#~ msgstr "Emin Fedar"
+#~ msgid "Yurin Doctrine"
+#~ msgstr "Yurin Doctrine"
 
 #~ msgid "ISO Mode"
 #~ msgstr "ISO Modu"

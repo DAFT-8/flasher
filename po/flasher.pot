@@ -61,7 +61,7 @@ msgid "ISO Mode (for Windows)"
 msgstr ""
 
 #: ui/MainWindow.glade:363 ui/MainWindow.glade:408 ui/MainWindow.glade:1040
-msgid "Pardus Image Writer"
+msgid "flasher"
 msgstr ""
 
 #: ui/MainWindow.glade:463
